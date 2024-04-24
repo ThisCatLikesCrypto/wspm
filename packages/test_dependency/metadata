@@ -1,1 +1,1 @@
-{"name": "test_dependency", "files": "file.txt", "version": "1", "oses": "universal", "dependencies": ""}
+{"name": "test_dependency", "files": "file.txt, reunification-jumpscare-jumpscare.zip", "version": "1", "oses": "universal", "dependencies": ""}
