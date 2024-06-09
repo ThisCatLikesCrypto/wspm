@@ -1,1 +1,1 @@
-{"name": "allwords", "files": "allwords.txt", "version": "1", "oses": "universal", "dependencies": "test_dependency"}
+{"name": "allwords", "files": "allwords.txt, install.py", "version": "1", "oses": "universal", "dependencies": "test_dependency", "installscript": "install.py"}
