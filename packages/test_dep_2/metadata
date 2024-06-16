@@ -1,0 +1,1 @@
+{"name": "test_dep_2", "files": "install.py", "version": "1", "oses": "universal", "dependencies": "test_dep_squared", "installscript": "install.py"}

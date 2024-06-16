@@ -1,0 +1,1 @@
+print("lmao this is the only file in test_dep_2")
